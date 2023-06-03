@@ -2,7 +2,7 @@
 
 
 
-print("---Uwelcome to Bank---")
+print("---Welcome to Bank---")
 
 outBal = 10000
 
